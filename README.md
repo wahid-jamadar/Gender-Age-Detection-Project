@@ -55,4 +55,5 @@ Labels: ['(0-2)', '(4-6)', '(8-12)', '(15-20)', '(25-32)', '(38-43)', '(48-53)',
 ### Wahid Jamdar
 Computer Science & Engineering | DY Patil Agriculture & Technical University, Kolhapur <br>
 GitHub: @wahid-jamadar <br>
-LinkedIn: wahidjamadar2020@gmail.com
+Mail: wahidjamadar2020@gmail.com
+LinkedIn: https://www.linkedin.com/in/wahid-jamadar-183a762b1/
